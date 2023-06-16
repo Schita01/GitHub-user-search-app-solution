@@ -81,7 +81,7 @@ header .mode{
 
 
 .search-input {
-    color: #222731;
+    color: var(--color-1);
     font-size: 1.125rem;
     line-height: 25px;
     padding: 6px 0;
